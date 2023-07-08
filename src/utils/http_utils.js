@@ -1,6 +1,6 @@
 /**@module utils */
 
-const XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
+//const XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
 const jsonContentTypeValue = "application/json;charset=utf-8";
 
 /**
